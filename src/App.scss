@@ -2,11 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.text-li {
-  color: #fff !important;
-}
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
-.list-dropdown:hover {
-  background-color: black !important;
-  color: #ffff !important;
+body {
+  background-image: url("../src/images/2150735504\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
